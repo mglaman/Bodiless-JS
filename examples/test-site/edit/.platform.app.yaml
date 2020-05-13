@@ -21,7 +21,7 @@ name: 'edit'
 type: 'nodejs:10'
 
 # The size of the persistent disk of the application (in MB).
-disk: 5120
+disk: 4596
 
 dependencies:
     nodejs:
